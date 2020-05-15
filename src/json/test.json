@@ -1,0 +1,19 @@
+{
+"parentURI": "http://google.com",
+"resourceNode": [
+{
+	"resourceURI": "",
+	"relation": "belongs-to",
+	 "edgeNode":[{
+	 	"property": "wheat",
+	 	"relation": "crop-type"
+	 },
+	 {
+	 	 "property": "winter",
+	 	"relation": "climate"
+	 }
+
+]
+}
+]
+}
